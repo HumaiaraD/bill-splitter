@@ -26,6 +26,9 @@ Let me know what other features I can add. For now I feel this is perfect for me
 
 Here's a snippet of the app: 
 
-https://github.com/user-attachments/assets/8fe6455e-8d92-4b83-a60c-93e5a4a42337
+
+
+https://github.com/user-attachments/assets/0d47d927-734e-4dde-8566-e8b36749594b
+
 
 
