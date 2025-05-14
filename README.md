@@ -23,3 +23,9 @@ This app is perfect for groups of friends or dining out scenarios where quick an
 
 Conclusion <br>
 Let me know what other features I can add. For now I feel this is perfect for me to use with my friends and family.
+
+Here's a snippet of the app: 
+
+https://github.com/user-attachments/assets/8fe6455e-8d92-4b83-a60c-93e5a4a42337
+
+
