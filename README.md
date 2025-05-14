@@ -21,5 +21,5 @@ Amount each person needs to pay
 🧾 Purpose
 This app is perfect for groups of friends or dining out scenarios where quick and fair bill splitting is needed — removing confusion and awkward math at the table.
 
-Conclusion 
+Conclusion <br>
 Let me know what other features I can add. For now I feel this is perfect for me to use with my friends and family.
